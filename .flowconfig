@@ -1,0 +1,9 @@
+[ignore]
+.*/build/.*
+
+[include]
+server/src/**/*.js
+
+[libs]
+
+[options]
